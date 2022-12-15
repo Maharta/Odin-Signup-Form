@@ -23,6 +23,7 @@ body {
   height: 100%;
   font-family: "Poppins", sans-serif;
   max-height: 100%;
+  background-color: #000;
 }
 body {
   line-height: 1.5;
@@ -128,9 +129,6 @@ main > section.display-contents > div > .form-group + p {
 
 main > section.display-contents form > h2 {
   margin-bottom: 1rem;
-}
-main section.display-contents > div {
-  background: #000;
 }
 
 main section:nth-of-type(2) > form {
